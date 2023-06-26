@@ -1,11 +1,11 @@
-body{
-    background-color: rgba(255, 0, 0, 0.33);
+body {
+  background-color: rgba(255, 0, 0, 0.33);
 }
-<<<<<<< HEAD
-form{
-    width: 200px;
-=======
-input{
-    color:olivedrab;
->>>>>>> 26758f46bc992cd064cef73189781a86b1503a07
+
+form {
+  width: 200px;
+}
+
+input {
+  color: olivedrab;
 }
